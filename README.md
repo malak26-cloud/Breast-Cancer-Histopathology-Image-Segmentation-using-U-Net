@@ -152,7 +152,7 @@ Used collab premium with T4 GPUand high memory to train.
 
 Here's a brief snippet that outlines the training loop:
 
-```python
+python
 for epoch in range(start_epoch, 10):
     epoch_loss = 0
     total_accuracy = 0
@@ -183,9 +183,9 @@ for epoch in range(start_epoch, 10):
 
 
 
-# Results
+## Results
 
-## Output Image
+### Output Image
 
 Below is an output image from the breast cancer histopathology segmentation model. This image illustrates the model's performance in segmenting cancerous tissues.
 
