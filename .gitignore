@@ -48,6 +48,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 Dataset
+checkpoints
 
 
 # Unit test / coverage reports
