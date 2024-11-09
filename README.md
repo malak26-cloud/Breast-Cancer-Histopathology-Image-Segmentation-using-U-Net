@@ -60,7 +60,8 @@ By focusing on these goals, the project aims to contribute to the advancement of
 ## Project Objective
 This study aims to improve cancer detection by leveraging deep learning for accurate segmentation of histopathological images. Our goal is to develop a CNN model that precisely distinguishes cancerous from non-cancerous tissue, reducing human error and aiding early diagnosis.
 
-![Objective Flowchart](images/objective_flowchart.png)
+<img src="images/objective_flowchart.png" height="300">
+
 
 
 ## Datasets
@@ -71,7 +72,8 @@ The dataset used in this project is the **BreCaHAD** (Breast Cancer Histopatholo
 
 - **Labels**: Each image is accompanied by ground truth labels in **JSON** format, which specify the coordinates of segmented lesions. These annotations are crucial for training segmentation models, allowing them to learn the precise areas of interest within the images.
 
-![About Dataset](images/about_dataset.png)
+<img src="images/about_dataset.png" height="300">
+
 
 
 
@@ -94,8 +96,9 @@ The dataset used in this project is the **BreCaHAD** (Breast Cancer Histopatholo
 
 The combination of high-quality images, precise annotations, and a robust augmentation pipeline ensures that the model is trained on diverse and representative data. This is vital for achieving accurate segmentation results in breast cancer histopathology, ultimately contributing to improved diagnostic outcomes.
 
-![sample image 1](images/sample_image.jpg)
-![sample ground truth 1](images/sample_label.jpg)
+<img src="images/sample_image.jpg" height="200" width="300">
+<img src="images/sample_label.jpg" height="200" width="300">
+
 
 
 ### Dataset References
@@ -104,7 +107,8 @@ The combination of high-quality images, precise annotations, and a robust augmen
   - Aksac, A., Demetrick, D.J., Ozyer, T. et al. BreCaHAD: a dataset for breast cancer histopathological annotation and diagnosis. *BMC Research Notes* 12, 82 (2019). [Link to Paper](https://doi.org/10.1186/s13104-019-4121-7)
 
 - **Original Data**: 
-  - [BreCaHAD Dataset on Figshare](https://figshare.com/articles/dataset/BreCaHAD_A_Dataset_for_Breast_Cancer_Histopathological_Annotation_and_Diagnosis/7379186)
+  -<a href="https://figshare.com/articles/dataset/BreCaHAD_A_Dataset_for_Breast_Cancer_Histopathological_Annotation_and_Diagnosis/7379186" target="_blank">BreCaHAD Dataset on Figshare</a>
+
 
 
 
@@ -190,7 +194,8 @@ for epoch in range(start_epoch, 10):
 
 Below is an output image from the breast cancer histopathology segmentation model. This image illustrates the model's performance in segmenting cancerous tissues.
 
-![Segmentation Output](images/output.png)
+<img src="images/output.png" width="400" height="300">
+
 
 ### Caption
 **Figure 1**: Segmentation output of the breast cancer histopathology image. 
