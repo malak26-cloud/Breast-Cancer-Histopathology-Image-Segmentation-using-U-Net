@@ -194,7 +194,7 @@ for epoch in range(start_epoch, 10):
 
 Below is an output image from the breast cancer histopathology segmentation model. This image illustrates the model's performance in segmenting cancerous tissues.
 
-<img src="images/output.png" width="400" height="300">
+<img src="images/output.png" width="900" height="300">
 
 
 ### Caption
