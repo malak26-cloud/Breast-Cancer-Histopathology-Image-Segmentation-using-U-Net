@@ -237,5 +237,5 @@ In summary, the model has demonstrated strong capabilities in segmenting breast 
 
 
  Any Query:
- [Linked In] [https://www.linkedin.com/in/prasanna-ghimire-002335188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+ [Linked In] (https://www.linkedin.com/in/prasanna-ghimire-002335188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
   
