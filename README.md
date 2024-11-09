@@ -13,7 +13,8 @@ In addition to model implementation, the project includes comprehensive evaluati
 ## U-Net Architecture
 The U-Net architecture is a powerful convolutional neural network designed specifically for image segmentation tasks, particularly in biomedical applications. Its unique structure enables precise localization and context capture, making it ideal for segmenting breast cancer histopathology images.
 
-![U-Net Architecture](images/u-net-architecture.png)
+<img src="images/u-net-architecture.png" width="500">
+
 
 
 ### Architecture Overview
@@ -237,5 +238,6 @@ In summary, the model has demonstrated strong capabilities in segmenting breast 
 
 
  Any Query:
- [Linked In] (https://www.linkedin.com/in/prasanna-ghimire-002335188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Any Query: [LinkedIn](https://www.linkedin.com/in/prasanna-ghimire-002335188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
   
